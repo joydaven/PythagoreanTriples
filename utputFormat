@@ -1,0 +1,7 @@
+HTTP/1.1 400 
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Sat, 17 Sep 2022 09:16:39 GMT
+Connection: close
+
+{"timestamp":"2022-09-17T09:16:39.544+00:00","status":400,"error":"Bad Request","path":"/main/add"}
